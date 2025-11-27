@@ -13,7 +13,7 @@ The global distribution and far-ranging movements of sperm whales, especially ma
 ## Collaborators 
 Contributing research groups include:
 
-- [the Whitehead Lab](https://whiteheadlab.weebly.com/), Dalhousie University, Halifax, Canada
+- [The Whitehead Lab](https://whiteheadlab.weebly.com/), Dalhousie University, Halifax, Canada
 - [The Dominica Sperm Whale Project](https://www.thespermwhaleproject.org/)
 - [The Fortune Whale Lab](https://www.fortunewhalelab.com/), Dalhousie University, Halifax, Canada
 - Marine Megafauna Research Group, University of Otago, Dunedin, New Zealand
