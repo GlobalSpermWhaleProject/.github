@@ -2,7 +2,7 @@
 The Male Sperm Whale Global Perspective Project seeks to address key knowledge gaps about broad patterns of male sperm whale movement and behaviour that are beyond the scope of any one localized team, through invaluable partnerships with those local groups. Specifically, this project seeks to better characterize (1) vocal learning and culture, (2) factors influencing reproductive success, and (3) long distance movements (including how they are influenced by body size and condition).
 
 ## Research Plan
-This work is being led by Christine Clarke, PhD candidate, supervised by Dr. Hal Whitehead at Dalhousie University. We will bring together geographically diverse datasets and leverage several types of data, including acoustic recordings, genetic sequences, photo identification records, behavioural observations, and drone imagery. 
+This work is being led by Christine Clarke, PhD candidate, supervised by Dr. Hal Whitehead, at Dalhousie University. We will bring together geographically diverse datasets and leverage several types of data, including acoustic recordings, genetic sequences, photo identification records, behavioural observations, and drone imagery. 
 
 ## Time Frame
 Work on this project began in January 2025. Collation and auditing of datasets and development of analysis workflows are underway. We aim to have the final data for Objective 1, 2 and 3 contributed by September 2026, May 2027, and December 2027, respectively.
@@ -14,9 +14,9 @@ The global distribution and far-ranging movements of sperm whales, especially ma
 Contributing research groups include:
 
 - [the Whitehead Lab](https://whiteheadlab.weebly.com/), Dalhousie University, Halifax, Canada
-- Marine Megafauna Research Group, University of Otago, Dunedin, New Zealand
 - [The Dominica Sperm Whale Project](https://www.thespermwhaleproject.org/)
 - [The Fortune Whale Lab](https://www.fortunewhalelab.com/), Dalhousie University, Halifax, Canada
+- Marine Megafauna Research Group, University of Otago, Dunedin, New Zealand
 
 ## Learn More or Get Involved
 
