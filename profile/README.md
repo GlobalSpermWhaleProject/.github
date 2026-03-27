@@ -17,6 +17,11 @@ Contributing research groups include:
 - [The Dominica Sperm Whale Project](https://www.thespermwhaleproject.org/)
 - [The Fortune Whale Lab](https://www.fortunewhalelab.com/), Dalhousie University, Halifax, Canada
 - Marine Megafauna Research Group, University of Otago, Dunedin, New Zealand
+- Fisheries and Oceans Canada
+- Univeristy of Alaska Southeast, Sitka, Alaska, USA
+
+## Funders
+This work is funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Killam Trusts, and Dalhousie University.
 
 ## Learn More or Get Involved
 
