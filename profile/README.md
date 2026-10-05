@@ -18,14 +18,14 @@ Contributing research groups include:
 - [The Fortune Whale Lab](https://www.fortunewhalelab.com/), Dalhousie University, Halifax, Canada
 - Marine Megafauna Research Group, University of Otago, Dunedin, New Zealand
 - Fisheries and Oceans Canada
-- Univeristy of Alaska Southeast, Sitka, Alaska, USA
+- University of Alaska Southeast, Sitka, Alaska, USA
 
 ## Funders
 This work is funded by the Natural Sciences and Engineering Research Council of Canada (NSERC), the Killam Trusts, and Dalhousie University.
 
 ## Learn More or Get Involved
 
-If you would like to learn more, or are interested in joining the project as a data contibutor, please reach out to Christine.Clarke (at) dal.ca
+If you would like to learn more, or are interested in joining the project as a data contributor, please reach out to Christine.Clarke (at) dal.ca
 
 Watch this space for updates on the project as it progresses. 
 
